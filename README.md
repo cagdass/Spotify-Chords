@@ -1,4 +1,6 @@
-# Spotify Lyrics
+See [Abdullah Wali](https://github.com/AbdullahWali)'s [Spotify-Lyrics](https://github.com/AbdullahWali/Spotify-Lyrics) for the original project.
+
+# Spotify Chords
 Hello musicians, this tool will fetch the chords/tabs for the song you're currently playing on Spotify and display it on a webpage. Once you change the song you're currently playing, simply refresh the page and you'll instantly get the chords/tabs of the new song being played. You don't have to use your PC to play the music, you can use Spotify on your phone and the tool will still detect the song as long as your device is connected to the internet.
 
 ## Installation
