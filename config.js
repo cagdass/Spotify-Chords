@@ -1,4 +1,4 @@
-let port = 3000;
+let port = 3005;
 module.exports = {
 	port: port,
     redirectUri : 'http://localhost:'+ port + '/callback',
